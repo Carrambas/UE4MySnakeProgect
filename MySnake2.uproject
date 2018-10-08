@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C318A742-4934-0670-59D0-1EB24BED1213}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MySnake2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
